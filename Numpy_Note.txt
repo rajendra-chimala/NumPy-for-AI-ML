@@ -43,7 +43,6 @@ np.mean(a)
 np.max(b)
 np.zeros((2, 3))
 np.ones(5)
-
 ✅ Commonly Used Functions:
 Function	Description
 np.array()	Create an array
